@@ -1,0 +1,38 @@
+[1.340s] Invoking command in '/home/rct/ros2_ws/src/comm_test': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rct/ros2_ws/build/comm_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comm_test build --build-base /home/rct/ros2_ws/build/comm_test/build install --record /home/rct/ros2_ws/build/comm_test/install.log --single-version-externally-managed install_data
+[1.612s] running egg_info
+[1.613s] creating ../../build/comm_test/comm_test.egg-info
+[1.741s] writing ../../build/comm_test/comm_test.egg-info/PKG-INFO
+[1.741s] writing dependency_links to ../../build/comm_test/comm_test.egg-info/dependency_links.txt
+[1.741s] writing requirements to ../../build/comm_test/comm_test.egg-info/requires.txt
+[1.741s] writing top-level names to ../../build/comm_test/comm_test.egg-info/top_level.txt
+[1.741s] writing manifest file '../../build/comm_test/comm_test.egg-info/SOURCES.txt'
+[1.786s] reading manifest file '../../build/comm_test/comm_test.egg-info/SOURCES.txt'
+[1.787s] writing manifest file '../../build/comm_test/comm_test.egg-info/SOURCES.txt'
+[1.787s] running build
+[1.787s] running build_py
+[1.787s] creating /home/rct/ros2_ws/build/comm_test/build
+[1.788s] creating /home/rct/ros2_ws/build/comm_test/build/lib
+[1.788s] creating /home/rct/ros2_ws/build/comm_test/build/lib/comm_test
+[1.789s] copying comm_test/__init__.py -> /home/rct/ros2_ws/build/comm_test/build/lib/comm_test
+[1.789s] copying comm_test/talker.py -> /home/rct/ros2_ws/build/comm_test/build/lib/comm_test
+[1.789s] copying comm_test/listener.py -> /home/rct/ros2_ws/build/comm_test/build/lib/comm_test
+[1.790s] running install
+[1.794s] running install_lib
+[1.816s] creating /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test
+[1.816s] copying /home/rct/ros2_ws/build/comm_test/build/lib/comm_test/__init__.py -> /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test
+[1.816s] copying /home/rct/ros2_ws/build/comm_test/build/lib/comm_test/talker.py -> /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test
+[1.816s] copying /home/rct/ros2_ws/build/comm_test/build/lib/comm_test/listener.py -> /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test
+[1.817s] byte-compiling /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test/__init__.py to __init__.cpython-312.pyc
+[1.818s] byte-compiling /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test/talker.py to talker.cpython-312.pyc
+[1.818s] byte-compiling /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test/listener.py to listener.cpython-312.pyc
+[1.819s] running install_data
+[1.819s] creating /home/rct/ros2_ws/install/comm_test/share/ament_index
+[1.820s] creating /home/rct/ros2_ws/install/comm_test/share/ament_index/resource_index
+[1.820s] creating /home/rct/ros2_ws/install/comm_test/share/ament_index/resource_index/packages
+[1.821s] copying resource/comm_test -> /home/rct/ros2_ws/install/comm_test/share/ament_index/resource_index/packages
+[1.821s] copying package.xml -> /home/rct/ros2_ws/install/comm_test/share/comm_test
+[1.821s] running install_egg_info
+[1.844s] Copying ../../build/comm_test/comm_test.egg-info to /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test-0.0.0-py3.12.egg-info
+[1.846s] running install_scripts
+[1.908s] writing list of installed files to '/home/rct/ros2_ws/build/comm_test/install.log'
+[1.941s] Invoked command in '/home/rct/ros2_ws/src/comm_test' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rct/ros2_ws/build/comm_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comm_test build --build-base /home/rct/ros2_ws/build/comm_test/build install --record /home/rct/ros2_ws/build/comm_test/install.log --single-version-externally-managed install_data

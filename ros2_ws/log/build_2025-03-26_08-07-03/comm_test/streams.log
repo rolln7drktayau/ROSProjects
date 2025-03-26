@@ -1,0 +1,22 @@
+[1.327s] Invoking command in '/home/rct/ros2_ws/src/comm_test': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(myenv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/rct/ros2_ws/build/comm_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(myenv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comm_test build --build-base /home/rct/ros2_ws/build/comm_test/build install --record /home/rct/ros2_ws/build/comm_test/install.log --single-version-externally-managed install_data
+[1.599s] running egg_info
+[1.711s] writing ../../build/comm_test/comm_test.egg-info/PKG-INFO
+[1.712s] writing dependency_links to ../../build/comm_test/comm_test.egg-info/dependency_links.txt
+[1.712s] writing entry points to ../../build/comm_test/comm_test.egg-info/entry_points.txt
+[1.712s] writing requirements to ../../build/comm_test/comm_test.egg-info/requires.txt
+[1.712s] writing top-level names to ../../build/comm_test/comm_test.egg-info/top_level.txt
+[1.757s] reading manifest file '../../build/comm_test/comm_test.egg-info/SOURCES.txt'
+[1.758s] writing manifest file '../../build/comm_test/comm_test.egg-info/SOURCES.txt'
+[1.759s] running build
+[1.759s] running build_py
+[1.759s] running install
+[1.764s] running install_lib
+[1.788s] running install_data
+[1.788s] running install_egg_info
+[1.811s] removing '/home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test-0.0.0-py3.12.egg-info' (and everything under it)
+[1.811s] Copying ../../build/comm_test/comm_test.egg-info to /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test-0.0.0-py3.12.egg-info
+[1.814s] running install_scripts
+[1.871s] Installing listener script to /home/rct/ros2_ws/install/comm_test/lib/comm_test
+[1.872s] Installing talker script to /home/rct/ros2_ws/install/comm_test/lib/comm_test
+[1.872s] writing list of installed files to '/home/rct/ros2_ws/build/comm_test/install.log'
+[1.896s] Invoked command in '/home/rct/ros2_ws/src/comm_test' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(myenv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/rct/ros2_ws/build/comm_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(myenv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comm_test build --build-base /home/rct/ros2_ws/build/comm_test/build install --record /home/rct/ros2_ws/build/comm_test/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+listener = comm_test.listener:main
+talker = comm_test.talker:main

@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/comm_test/comm_test.egg-info/PKG-INFO
+writing dependency_links to ../../build/comm_test/comm_test.egg-info/dependency_links.txt
+writing entry points to ../../build/comm_test/comm_test.egg-info/entry_points.txt
+writing requirements to ../../build/comm_test/comm_test.egg-info/requires.txt
+writing top-level names to ../../build/comm_test/comm_test.egg-info/top_level.txt
+reading manifest file '../../build/comm_test/comm_test.egg-info/SOURCES.txt'
+writing manifest file '../../build/comm_test/comm_test.egg-info/SOURCES.txt'
+running build
+running build_py
+copying comm_test/talker.py -> /home/rct/ros2_ws/build/comm_test/build/lib/comm_test
+running install
+running install_lib
+copying /home/rct/ros2_ws/build/comm_test/build/lib/comm_test/talker.py -> /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test
+byte-compiling /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test/talker.py to talker.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/comm_test/comm_test.egg-info to /home/rct/ros2_ws/install/comm_test/lib/python3.12/site-packages/comm_test-0.0.0-py3.12.egg-info
+running install_scripts
+Installing listener script to /home/rct/ros2_ws/install/comm_test/lib/comm_test
+Installing talker script to /home/rct/ros2_ws/install/comm_test/lib/comm_test
+writing list of installed files to '/home/rct/ros2_ws/build/comm_test/install.log'
