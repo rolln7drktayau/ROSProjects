@@ -16,7 +16,7 @@ Le dépôt est organisé de la façon suivante:
 *(Cette liste sera mise à jour au fur et à mesure)*
 
 - [TP1 - Communication Test](./ros2_ws) - *Rendu: 26/03/2025*
-- [TP2]{} - *Rendu: JJ/MM/AAAA*
+- TP2 (A venir...) - *Rendu: JJ/MM/AAAA*
 
 ## Technologies utilisées
 
