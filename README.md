@@ -1,5 +1,9 @@
 # Ensemble de Projets - Portfolio de TPs
 
+## Auteur
+
+Roland Cédric TAYO - INEM
+
 ## Description
 
 Ce dépôt est un ensemble de projets qui sera alimenté progressivement avec chaque TP à rendre. Il sert de portfolio pour documenter mon apprentissage et mes réalisations au cours de ma formation.
@@ -36,4 +40,4 @@ Pour explorer un TP spécifique, accédez au dossier correspondant où vous trou
 
 ## Auteur
 
-[Roland Cédric TAYO]
+Roland Cédric TAYO
